@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Lesson_3/Real-Time-Vehicle-Detection-Tracking-and-Counting-in-Python" vcs="Git" />
   </component>
 </project>

@@ -45,8 +45,8 @@ def writeText(frame, text, x, y):
 def handle_player(frame, n_finger):
 
     switcher = {
-        0: "You lose",
-        1: "You win",
+        0: "PC Win",
+        1: "PC Lose",
         2: "Draw"
     }
 
